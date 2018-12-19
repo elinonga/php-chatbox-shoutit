@@ -1,0 +1,10 @@
+You can make this even better
+- Validation for User
+- Registration
+- Login
+- JavaScript & Ajax, so that the pae doesn't have to refresh each time you enter inputs
+
+
+Enjoy
+
+~ Elinonga
